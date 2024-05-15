@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="test.css">
+</head>
+
+<body>
+  <ol>
+    <li class="red">Red</li>
+    <li class="green">Green</li>
+    <li class="blue">Blue</li>
+  </ol>
+
+  <ul>
+    <li class="red">Red</li>
+    <li class="green">Green</li>
+    <li class="blue">Blue</li>
+  </ul>
+
+  <dl>
+    <dt class="red">Red</dt>
+     <dd>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi aperiam nulla aliquid quia praesentium fugit doloribus id voluptates esse atque, corporis illo unde est ut dolore, non similique nihil itaque!</dd>
+    <dt class="green">Green</dt>
+      <dd>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, qui. Ducimus, accusamus atque? Eaque quo voluptatem ut distinctio perferendis est ipsam corporis optio, rem minima laboriosam! Eaque, sed! Atque, sint?</dd>
+    <dt class="blue">Blue</dt>
+      <dd>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci iusto ab quaerat doloremque fugiat deleniti animi tempora praesentium optio, amet minima itaque deserunt laudantium ullam. Corporis maxime fugiat eos tenetur. </dd>
+  </dl>
+</body>
+
+</html>

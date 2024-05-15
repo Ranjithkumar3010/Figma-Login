@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login page</title>
+    <link rel="Stylesheet" href="SampleStyle.css">
+</head>
+
+<body>
+    <div class="container">
+        <form>
+            <div class="inputdata">
+                <label id="email">Email ID</label>
+                <input type="text">
+            </div>
+            
+            <div class="inputdata">
+                <label id="password">Password</label>
+                <input type="text">
+            
+            </div>
+            <div class="inputdata">
+                <input type="checkbox" label id="remember">Remenber login</label>
+                
+            </div>
+
+            <div class="submit">
+                <button type="submit">Sign-In</button>
+            </div>
+            
+           <div class="up">
+            <a href="Signup.html">
+                <button type="button">Sign-Up</button>
+            </a>
+           </div> 
+
+
+        </form>
+    </div>    
+</body>
+
+</html>

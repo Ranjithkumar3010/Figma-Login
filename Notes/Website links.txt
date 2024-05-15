@@ -1,0 +1,6 @@
+HTML ICONS
+1. https://icons8.com/icons
+
+2. Add library in <head> <link rel="stylesheet" href="here"   
+				-> https://cdnjs.com/libraries/font-awesome
+Then copy the icons here        -> https://fontawesome.com/

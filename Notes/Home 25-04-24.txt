@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="SampleStyle.css">
+    </head>
+    <!--*******************************Link Audio ,Video & Map***************************************** -->
+       <!-- <body> 
+            
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/FwQut9zyQLk?si=Hu0HYc7kfCGE-n9J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15540.09556407017!2d80.24328315!3d13.160893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1713933759649!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+       
+
+        <video controls>
+            <source src="C:\Users\RANJITH KUMAR R\Downloads\sample_vdeo.mp4" type="video/mp4">
+        </video>
+
+        <audio controls>
+            <source src="C:\Users\RANJITH KUMAR R\Downloads\sample-audio.mp3" type="audio/mp3">
+        </audio>
+
+
+        </body> -->
+<!--*******************************Create a Table***************************************** -->
+        <!--<body>
+            <div> <h1>Table..!</h1></div>
+            <table>
+                <tr>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>date</th>
+                </tr>
+
+                <tr>
+                    <td>qwerty</td>
+                    <td>12</td>
+                    <td>01/01/2000</td>
+                </tr>
+
+                <tr>
+                    <td>asdfg</td>
+                    <td>11</td>
+                    <td>21/01/2003</td>
+                </tr>
+
+                <tr>
+                    <td>zxcvb</td>
+                    <td>18</td>
+                    <td>22/05/2005</td>
+                </tr>
+            </table>
+        </body> -->
+
+
+            <body>
+                <table>
+                    <tr>
+                        <th><H1>Locate me here!</H1></th>
+                        <td></td>
+                        <th> <h1>My music</h1></th>
+                    </tr>
+                    <tr>
+                        
+                        <td><iframe class="map" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15540.09556407017!2d80.24328315!3d13.160893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1713933759649!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>   </td>
+                        <td></td>
+                        <td> <iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/FwQut9zyQLk?si=Hu0HYc7kfCGE-n9J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+                        </tr>
+                        <br>
+
+                     <tr>
+                        <th><h1>Play sample audio below</h1></th>
+                        <td></td>
+                        <th><h1>Play sample video below</h1></th>
+                     </tr>   
+                     <tr>
+                        <td><audio class="audio" controls>
+                            <source src="Audio/sample-audio.mp3" type="audio/mp3">
+                        </audio></td>
+                        <td></td>
+                        <td>
+                            <video controls class="video">
+                            <source src="/Video/sample_vdeo.mp4" type="video/mp4">
+                            </video>
+                        </td>
+                     </tr>
+                        
+                 </table>
+
+                
+            </body>
+
+
+
+
+
+
+
+
+
+
+</html>

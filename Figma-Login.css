@@ -1,0 +1,131 @@
+*{
+    overflow: hidden;
+}
+
+.col1{
+    background-color: white;
+    height: 100vh;
+    
+}
+.col2{
+    background-color:rgba(229, 229, 229, 0.41);
+    ;
+}
+
+.cont{
+    margin-left: 15vh;
+    margin-top: 10vh;
+}
+
+.line1{
+    font-size: 30px;
+    color: rgba(55, 81, 254, 1);
+    padding-bottom: 10px;
+    line-height: 50px;
+}
+.line2{
+    font-size: 36px;
+    color: rgba(55, 81, 254, 1);
+    font-weight: 700;
+    line-height: 50px;
+    text-align: left;
+}
+
+.cont h4{
+    font-size: 17px;
+    padding-bottom: 15px;
+    color:rgba(0, 0, 0, 0.6);
+    font-weight:400;
+    line-height: 21.09px;
+}
+
+.sec{
+    font-size: 13px;
+}
+.box input{
+  width: 80%;
+  height: 50px;
+  color: rgba(55, 81, 254, 1);
+}
+.remember{
+    margin-left: 11px;
+    margin-top: 10px;
+    font-size: 14px;
+    color:rgba(0, 0, 0, 0.61);
+}
+.for{
+    float: right;
+    margin-right: 20%;
+}
+.buttons{
+    height: 6vh;    /*To set the bottom shadow need to fix hight and widith accodingly*/
+   }
+
+.buttons [type="submit"]{
+    width:95px;
+    height: 45px;
+    border-color: rgba(55, 81, 254, 1);
+    background-color: rgba(55, 81, 254, 1);
+    border: none;
+    color: rgba(255, 255, 255, 1);
+    font-size: 14px;
+    font-weight: 400;
+    box-shadow: 0px 4px 3px  rgba(0, 0, 0, 0.25);    
+}
+
+.buttons [type="button"]{
+    margin-left: 15px;
+    width: 95px;
+    height: 45px;
+    border-color: rgba(55, 81, 254, 1);
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(12, 49, 241, 1);
+    border-width: thin;
+    
+}
+.end{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 125px;
+    font-size: 14px;
+    margin-top: 50px;
+
+    /*margin-top: 10%;*/
+}
+.end a{
+    text-decoration: none;
+}
+.end{
+    color:rgba(0, 0, 0, 0.61);
+}
+.sec{
+    color: blueviolet;
+    font-size: small;
+}
+
+::placeholder{
+    font-size: 15px;
+}
+
+.cycle{
+    height: 330px;
+    margin-top: 60px;
+}
+.col2 .home{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 240px;
+    font-size: 14px;
+    margin-top: 100px;
+    margin-left: -90px;
+    color:rgba(0, 0, 0, 0.6);
+    font-size: large;
+    font-weight: 400;
+    
+    
+}
+.col2 .home .underline{
+    text-decoration: underline;
+    text-decoration-color:rgb(93, 113, 244);;
+    text-underline-offset: 5px;
+}

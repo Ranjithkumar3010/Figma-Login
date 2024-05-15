@@ -1,0 +1,64 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-image: url(Images/Background.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;   
+    color: black;
+    font-family: cursive;
+}
+
+.container{
+    border: none;
+    width: 50vh;
+    height:40vh;
+    background-color: rgb(105, 102, 102);
+    text-align:center;
+    margin-top: 20px;
+}
+
+.container form{
+    margin-top: 20px;
+}
+
+.inputdata{
+    margin-bottom: 10px;
+    
+}
+.inputdata label{
+    display: block;
+    margin-bottom: 10px;
+}
+.inputdata input[type="text"]{
+    padding:10px;   
+    width: 200px;
+    border-radius: 10px;
+}
+
+.submit button[type="submit"]{
+    padding: 10px;
+    width: 80px;
+    border-radius: 10px;
+    border: none;
+    /*background-color: rgb(216, 225, 225);  */
+}   
+
+.up button[type="button"]
+{
+    padding: 10px;
+    width: 80px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 10px;
+    /*background-color: rgb(216, 225, 225); */
+}
+
+.submit button[type="submit"]:hover{
+    background-color: rgb(21, 109, 109);
+}
+
+.up button[type="button"]:hover{
+    background-color: rgb(21, 109, 109);
+}

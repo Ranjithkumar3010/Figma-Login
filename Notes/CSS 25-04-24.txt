@@ -1,0 +1,55 @@
+/*body{
+    text-align: center;
+    background-color: grey;
+
+    
+}
+table{
+    height: 30vh;
+    width: 50vh;
+}
+
+table,th,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 20vh;
+    margin-top: 20vh;
+}
+
+th{
+    background-color: blue;
+}
+
+td{
+    background-color: aqua;
+}
+
+.Map{ 
+    border:20px solid blue;
+    width: 30px;
+    margin: 30px;
+    color: blue;
+    background-color: brown;
+}
+
+.YouTube{margin-left: 20vh;
+    margin-top: 20vh;}
+.Audio{text-align: center;}
+.Table{text-align: center;}
+*/
+body{
+    border-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.video{
+   
+    width: 150%;
+    
+}
+.youtube{
+    width: 150%;
+    
+}
